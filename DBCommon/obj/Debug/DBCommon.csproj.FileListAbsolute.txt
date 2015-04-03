@@ -24,3 +24,16 @@ C:\Users\ZP2\Google Диск\ENDojo\DBCommon\bin\Debug\System.Data.SQLite.xml
 C:\Users\ZP2\Google Диск\ENDojo\DBCommon\obj\Debug\DBCommon.csprojResolveAssemblyReference.cache
 C:\Users\ZP2\Google Диск\ENDojo\DBCommon\obj\Debug\DBCommon.dll
 C:\Users\ZP2\Google Диск\ENDojo\DBCommon\obj\Debug\DBCommon.pdb
+D:\MY_SOURCES\EnDojo\DBCommon\bin\Debug\DBCommon.dll.config
+D:\MY_SOURCES\EnDojo\DBCommon\bin\Debug\DBCommon.dll
+D:\MY_SOURCES\EnDojo\DBCommon\bin\Debug\DBCommon.pdb
+D:\MY_SOURCES\EnDojo\DBCommon\bin\Debug\EntityFramework.dll
+D:\MY_SOURCES\EnDojo\DBCommon\bin\Debug\EntityFramework.SqlServer.dll
+D:\MY_SOURCES\EnDojo\DBCommon\bin\Debug\System.Data.SQLite.dll
+D:\MY_SOURCES\EnDojo\DBCommon\bin\Debug\System.Data.SQLite.Linq.dll
+D:\MY_SOURCES\EnDojo\DBCommon\bin\Debug\EntityFramework.xml
+D:\MY_SOURCES\EnDojo\DBCommon\bin\Debug\EntityFramework.SqlServer.xml
+D:\MY_SOURCES\EnDojo\DBCommon\bin\Debug\System.Data.SQLite.xml
+D:\MY_SOURCES\EnDojo\DBCommon\obj\Debug\DBCommon.csprojResolveAssemblyReference.cache
+D:\MY_SOURCES\EnDojo\DBCommon\obj\Debug\DBCommon.dll
+D:\MY_SOURCES\EnDojo\DBCommon\obj\Debug\DBCommon.pdb

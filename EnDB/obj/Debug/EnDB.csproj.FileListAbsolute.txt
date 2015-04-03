@@ -13,3 +13,20 @@ C:\Users\ZP2\Google Диск\ENDojo\EnDB\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\ZP2\Google Диск\ENDojo\EnDB\bin\Debug\System.Data.SQLite.xml
 C:\Users\ZP2\Google Диск\ENDojo\EnDB\obj\Debug\EnDB.dll
 C:\Users\ZP2\Google Диск\ENDojo\EnDB\obj\Debug\EnDB.pdb
+D:\MY_SOURCES\EnDojo\EnDB\bin\Debug\EnDB.dll.config
+D:\MY_SOURCES\EnDojo\EnDB\bin\Debug\EnDB.dll
+D:\MY_SOURCES\EnDojo\EnDB\bin\Debug\EnDB.pdb
+D:\MY_SOURCES\EnDojo\EnDB\bin\Debug\DBCommon.dll
+D:\MY_SOURCES\EnDojo\EnDB\bin\Debug\EntityFramework.dll
+D:\MY_SOURCES\EnDojo\EnDB\bin\Debug\EntityFramework.SqlServer.dll
+D:\MY_SOURCES\EnDojo\EnDB\bin\Debug\System.Data.SQLite.dll
+D:\MY_SOURCES\EnDojo\EnDB\bin\Debug\System.Data.SQLite.Linq.dll
+D:\MY_SOURCES\EnDojo\EnDB\bin\Debug\DBCommon.pdb
+D:\MY_SOURCES\EnDojo\EnDB\bin\Debug\EntityFramework.xml
+D:\MY_SOURCES\EnDojo\EnDB\bin\Debug\EntityFramework.SqlServer.xml
+D:\MY_SOURCES\EnDojo\EnDB\bin\Debug\System.Data.SQLite.xml
+D:\MY_SOURCES\EnDojo\EnDB\obj\Debug\EnDB.csprojResolveAssemblyReference.cache
+D:\MY_SOURCES\EnDojo\EnDB\obj\Debug\EnDB.dll
+D:\MY_SOURCES\EnDojo\EnDB\obj\Debug\EnDB.pdb
+D:\MY_SOURCES\EnDojo\EnDB\bin\Debug\NLog.dll
+D:\MY_SOURCES\EnDojo\EnDB\bin\Debug\NLog.xml

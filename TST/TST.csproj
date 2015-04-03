@@ -42,6 +42,9 @@
     <Reference Include="Microsoft.CSharp">
       <RequiredTargetFramework>4.0</RequiredTargetFramework>
     </Reference>
+    <Reference Include="NLog">
+      <HintPath>..\packages\NLog.3.2.0.0\lib\net45\NLog.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core">
@@ -72,12 +75,19 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
+    <None Include="NLog.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DBCommon\DBCommon.csproj">
       <Project>{034AD0C8-003B-4426-9342-6835EAABFD54}</Project>
       <Name>DBCommon</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EnDB\EnDB.csproj">
+      <Project>{5E36A7C2-6243-493D-AF4B-034E42EB7637}</Project>
+      <Name>EnDB</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

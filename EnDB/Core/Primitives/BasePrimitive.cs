@@ -7,6 +7,7 @@
  * To change this template use Tools | Options | Coding | Edit Standard Headers.
  */
 using System;
+using System.Text;
 
 namespace EnDB.Core.Primitives
 {
@@ -76,11 +77,24 @@ namespace EnDB.Core.Primitives
 			}
 		}
 		
+		private bool mIsLoaded = false;
+		
+		public bool IsLoaded
+		{
+			get
+			{
+				return this.mIsLoaded;
+			}
+		}
+		
 		public bool Load()
 		{
 			this.EmitLoading();
 			
 			bool tmpRez = this.LoadHandler();
+			
+			this.mIsLoaded = tmpRez;
+			this.mIsSaved = tmpRez;
 			
 			this.EmitLoaded();
 			
@@ -120,7 +134,31 @@ namespace EnDB.Core.Primitives
 		{
 			this.EmitSaving();
 			
-			bool tmpRez = this.SaveHandler();
+			/*bool tmpRez = this.SaveHandler();
+						
+			this.mIsLoaded = tmpRez;
+			this.mIsSaved = tmpRez;
+			
+			this.EmitSaved();
+			
+			return tmpRez;*/
+			
+			bool tmpRez = false;
+			
+			if(this.Id == 0)
+			{
+				tmpRez = this.InsertHandler();
+			}else{
+				if(this.IsContainsInDBHandler())
+				{
+					tmpRez = this.UpdateHandler();
+				}else{
+					tmpRez = this.InsertHandler();
+				}
+			}
+			
+			this.mIsLoaded = tmpRez;
+			this.mIsSaved = tmpRez;
 			
 			this.EmitSaved();
 			
@@ -129,10 +167,27 @@ namespace EnDB.Core.Primitives
 		
 		protected abstract bool SaveHandler();
 		
+		protected virtual bool IsContainsInDBHandler()
+		{
+			return false;
+		}
+		
+		protected virtual bool InsertHandler()
+		{
+			return false;
+		}
+		
+		protected virtual bool UpdateHandler()
+		{
+			return false;
+		}
+		
 		public event Action Modified;
 	
 		protected void EmitModified()
 		{
+			this.mIsSaved = false;
+			
 			if(Modified != null)
 			{
 				Modified();
@@ -164,7 +219,10 @@ namespace EnDB.Core.Primitives
 			this.EmitRemoving();
 			
 			bool tmpRez = this.RemoveHandler();
-				
+			
+            this.mIsLoaded = false;
+			this.mIsSaved = false;
+			
 			this.EmitRemoved();
 			
 			return tmpRez;	
@@ -191,5 +249,24 @@ namespace EnDB.Core.Primitives
 				Removed();
 			}
 		}
+		
+		public override string ToString()
+		{
+			StringBuilder tmpSb = new StringBuilder();
+
+			tmpSb.AppendLine(System.Runtime.CompilerServices.RuntimeHelpers.GetHashCode(this).ToString());
+			
+			tmpSb.Append("Id = ");
+			tmpSb.AppendLine(this.Id.ToString());
+			
+			tmpSb.Append("IsLoaded = ");
+			tmpSb.AppendLine(this.IsLoaded.ToString());
+			
+			tmpSb.Append("IsSaved = ");			
+			tmpSb.AppendLine(this.IsSaved.ToString());
+			
+			return tmpSb.ToString();
+		}
+
 	}
 }

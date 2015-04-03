@@ -19,9 +19,21 @@ namespace TST
 			
 			// TODO: Implement Functionality Here
 
-            string connectionString = @"Data Source=c:\Users\svtol\Google Диск\ENDojo\En.db";
+            string connectionString = @"Data Source=d:\MY_SOURCES\EnDojo\En.db";
 			
-            using(DBCommon.DBConnection db = new DBCommon.DBConnection(connectionString))
+            EnDB.Core.Primitives.BasePrimitive.DefaultConnectionString = connectionString;
+            
+            EnDB.Core.Primitives.times tmpObj = new EnDB.Core.Primitives.times();
+            
+            tmpObj.Name = "Preved";
+            
+            tmpObj.Id = 12;
+            
+            NLog.LogManager.GetCurrentClassLogger().Info(tmpObj.ToString());
+            
+            tmpObj.Save();
+            
+            /*using(DBCommon.DBConnection db = new DBCommon.DBConnection(connectionString))
             {
             	string queryString = "SELECT COUNT(*) AS 'C' FROM F";
             	
@@ -37,7 +49,7 @@ namespace TST
                 {
                     Console.WriteLine("tmpReader.Read()");
                 }            	
-            }
+            }*/
             
 			/*using(System.Data.SQLite.SQLiteConnection connection = new System.Data.SQLite.SQLiteConnection(connectionString))
 			{

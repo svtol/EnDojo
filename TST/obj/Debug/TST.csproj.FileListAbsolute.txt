@@ -28,3 +28,24 @@ C:\Users\svtol\Google Диск\ENDojo\TST\bin\Debug\EntityFramework.xml
 C:\Users\svtol\Google Диск\ENDojo\TST\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\svtol\Google Диск\ENDojo\TST\bin\Debug\DBCommon.dll
 C:\Users\svtol\Google Диск\ENDojo\TST\bin\Debug\DBCommon.pdb
+D:\MY_SOURCES\EnDojo\TST\bin\Debug\TST.exe.config
+D:\MY_SOURCES\EnDojo\TST\bin\Debug\TST.exe
+D:\MY_SOURCES\EnDojo\TST\bin\Debug\TST.pdb
+D:\MY_SOURCES\EnDojo\TST\bin\Debug\DBCommon.dll
+D:\MY_SOURCES\EnDojo\TST\bin\Debug\EntityFramework.dll
+D:\MY_SOURCES\EnDojo\TST\bin\Debug\EntityFramework.SqlServer.dll
+D:\MY_SOURCES\EnDojo\TST\bin\Debug\System.Data.SQLite.dll
+D:\MY_SOURCES\EnDojo\TST\bin\Debug\System.Data.SQLite.EF6.dll
+D:\MY_SOURCES\EnDojo\TST\bin\Debug\System.Data.SQLite.Linq.dll
+D:\MY_SOURCES\EnDojo\TST\bin\Debug\DBCommon.pdb
+D:\MY_SOURCES\EnDojo\TST\bin\Debug\EntityFramework.xml
+D:\MY_SOURCES\EnDojo\TST\bin\Debug\EntityFramework.SqlServer.xml
+D:\MY_SOURCES\EnDojo\TST\bin\Debug\System.Data.SQLite.xml
+D:\MY_SOURCES\EnDojo\TST\obj\Debug\TST.csprojResolveAssemblyReference.cache
+D:\MY_SOURCES\EnDojo\TST\obj\Debug\TST.exe
+D:\MY_SOURCES\EnDojo\TST\obj\Debug\TST.pdb
+D:\MY_SOURCES\EnDojo\TST\bin\Debug\NLog.config
+D:\MY_SOURCES\EnDojo\TST\bin\Debug\EnDB.dll
+D:\MY_SOURCES\EnDojo\TST\bin\Debug\NLog.dll
+D:\MY_SOURCES\EnDojo\TST\bin\Debug\EnDB.pdb
+D:\MY_SOURCES\EnDojo\TST\bin\Debug\NLog.xml
