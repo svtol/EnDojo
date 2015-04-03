@@ -1,0 +1,15 @@
+C:\Users\ZP2\Google Диск\ENDojo\EnDB\obj\Debug\EnDB.csprojResolveAssemblyReference.cache
+C:\Users\ZP2\Google Диск\ENDojo\EnDB\bin\Debug\EnDB.dll.config
+C:\Users\ZP2\Google Диск\ENDojo\EnDB\bin\Debug\EnDB.dll
+C:\Users\ZP2\Google Диск\ENDojo\EnDB\bin\Debug\EnDB.pdb
+C:\Users\ZP2\Google Диск\ENDojo\EnDB\bin\Debug\DBCommon.dll
+C:\Users\ZP2\Google Диск\ENDojo\EnDB\bin\Debug\EntityFramework.dll
+C:\Users\ZP2\Google Диск\ENDojo\EnDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ZP2\Google Диск\ENDojo\EnDB\bin\Debug\System.Data.SQLite.dll
+C:\Users\ZP2\Google Диск\ENDojo\EnDB\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\ZP2\Google Диск\ENDojo\EnDB\bin\Debug\DBCommon.pdb
+C:\Users\ZP2\Google Диск\ENDojo\EnDB\bin\Debug\EntityFramework.xml
+C:\Users\ZP2\Google Диск\ENDojo\EnDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ZP2\Google Диск\ENDojo\EnDB\bin\Debug\System.Data.SQLite.xml
+C:\Users\ZP2\Google Диск\ENDojo\EnDB\obj\Debug\EnDB.dll
+C:\Users\ZP2\Google Диск\ENDojo\EnDB\obj\Debug\EnDB.pdb

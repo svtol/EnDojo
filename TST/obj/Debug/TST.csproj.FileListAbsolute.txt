@@ -1,0 +1,30 @@
+C:\Users\svtol\Google Диск\ENDojo\TST\bin\Debug\TST.exe.config
+C:\Users\svtol\Google Диск\ENDojo\TST\bin\Debug\TST.exe
+C:\Users\svtol\Google Диск\ENDojo\TST\bin\Debug\TST.pdb
+C:\Users\svtol\Google Диск\ENDojo\TST\bin\Debug\System.Data.SQLite.dll
+C:\Users\svtol\Google Диск\ENDojo\TST\bin\Debug\System.Data.SQLite.xml
+C:\Users\svtol\Google Диск\ENDojo\TST\obj\Debug\TST.csprojResolveAssemblyReference.cache
+C:\Users\svtol\Google Диск\ENDojo\TST\obj\Debug\TST.exe
+C:\Users\svtol\Google Диск\ENDojo\TST\obj\Debug\TST.pdb
+C:\Users\ZP2\Google Диск\ENDojo (1)\TST\bin\Debug\TST.exe.config
+C:\Users\ZP2\Google Диск\ENDojo (1)\TST\obj\Debug\TST.exe
+C:\Users\ZP2\Google Диск\ENDojo (1)\TST\obj\Debug\TST.pdb
+C:\Users\ZP2\Google Диск\ENDojo (1)\TST\bin\Debug\TST.exe
+C:\Users\ZP2\Google Диск\ENDojo (1)\TST\bin\Debug\TST.pdb
+C:\Users\ZP2\Google Диск\ENDojo (1)\TST\bin\Debug\EntityFramework.dll
+C:\Users\ZP2\Google Диск\ENDojo (1)\TST\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ZP2\Google Диск\ENDojo (1)\TST\bin\Debug\System.Data.SQLite.dll
+C:\Users\ZP2\Google Диск\ENDojo (1)\TST\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\ZP2\Google Диск\ENDojo (1)\TST\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\ZP2\Google Диск\ENDojo (1)\TST\bin\Debug\EntityFramework.xml
+C:\Users\ZP2\Google Диск\ENDojo (1)\TST\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ZP2\Google Диск\ENDojo (1)\TST\bin\Debug\System.Data.SQLite.xml
+C:\Users\ZP2\Google Диск\ENDojo (1)\TST\obj\Debug\TST.csprojResolveAssemblyReference.cache
+C:\Users\svtol\Google Диск\ENDojo\TST\bin\Debug\EntityFramework.dll
+C:\Users\svtol\Google Диск\ENDojo\TST\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\svtol\Google Диск\ENDojo\TST\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\svtol\Google Диск\ENDojo\TST\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\svtol\Google Диск\ENDojo\TST\bin\Debug\EntityFramework.xml
+C:\Users\svtol\Google Диск\ENDojo\TST\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\svtol\Google Диск\ENDojo\TST\bin\Debug\DBCommon.dll
+C:\Users\svtol\Google Диск\ENDojo\TST\bin\Debug\DBCommon.pdb
